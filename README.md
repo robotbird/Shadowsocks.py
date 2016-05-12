@@ -1,4 +1,4 @@
-# fq神器自动获取密码 
+# fq神器Shadowsocks自动获取密码 
 
 ### 自动获取Shadowsocks密码，并打开Shadowsocks.exe
 
