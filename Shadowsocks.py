@@ -22,4 +22,4 @@ with open('gui-config.json','w') as f:
 	json.dump(d,f)
 print "open shadowsocks success , please close this window"
 os.popen("Shadowsocks.exe")
-eixt()
+exit()
