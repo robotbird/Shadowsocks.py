@@ -1,6 +1,6 @@
 # fq神器Shadowsocks自动获取密码 
 
-### 自动获取Shadowsocks密码，并打开Shadowsocks.exe
+### 自动获取Shadowsocks密码，并打开Shadowsocks.exe （暂时只有windows)
 
 * Shadowsocks 下载地址：http://www.ishadowsocks.net/#download
 > 第一次需要运行Shadowsocks.exe，填写服务器ip，端口密码，选择加密方式，确定后会在当前目录生成gui-config.json文件，
